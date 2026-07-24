@@ -35,3 +35,22 @@ The findings are applied to the Bellabeat app to support marketing strategies th
 This analysis uses the publicly available Fitbit Fitness Tracker Data dataset provided through Kaggle.
 
 The dataset includes activity and sleep records collected from Fitbit users. The original files were not uploaded to this repository because they are publicly available from the source and are not required to understand the analysis.
+## Visual Preview
+
+### Average Daily Steps by Day of the Week
+![Average Daily Steps by Day of the Week](./average_steps_by_day.png)
+
+### Average Sleep Hours by Day of the Week
+![Average Sleep Hours by Day of the Week](./average_sleep_hours_by_day.png)
+
+### Distribution of User Activity Levels
+![Distribution of User Activity Levels](./user_activity_levels.png)
+
+### Relationship Between Daily Steps and Calories Burned
+![Relationship Between Daily Steps and Calories Burned](./steps_vs_calories.png)
+
+### Relationship Between Sedentary Time and Sleep Duration
+![Relationship Between Sedentary Time and Sleep Duration](./sedentary_time_vs_sleep.png)
+
+### Average Daily Minutes by Activity Type
+![Average Daily Minutes by Activity Type](./average_minutes_by_activity_type.png)
