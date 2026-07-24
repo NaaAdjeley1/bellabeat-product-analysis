@@ -1,2 +1,7 @@
-# bellabeat-product-analysis
-Analysis of Fitbit smart-device data using Python to identify wellness trends and support Bellabeat marketing strategy.
+# Bellabeat Product Analysis
+
+## Project Overview
+
+This project analyses Fitbit smart-device data to identify trends in daily activity, sedentary behaviour, sleep, and user engagement.
+
+The findings are applied to the Bellabeat app to support marketing strategies that encourage users to build healthier and more consistent wellness habits.
