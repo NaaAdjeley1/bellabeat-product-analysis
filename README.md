@@ -21,3 +21,8 @@ The findings are applied to the Bellabeat app to support marketing strategies th
 - More than half of users were either sedentary or lightly active.
 - Daily steps had a moderate positive relationship with calories burned.
 - Sedentary time had a moderate negative relationship with sleep duration.
+## Recommendations
+
+1. Use personalised and achievable activity goals to support sedentary and lightly active users.
+2. Introduce timely movement reminders and short wellness challenges to reduce long periods of inactivity.
+3. Combine activity and sleep insights in the Bellabeat app to promote balanced daily routines.
