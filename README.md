@@ -26,3 +26,7 @@ The findings are applied to the Bellabeat app to support marketing strategies th
 1. Use personalised and achievable activity goals to support sedentary and lightly active users.
 2. Introduce timely movement reminders and short wellness challenges to reduce long periods of inactivity.
 3. Combine activity and sleep insights in the Bellabeat app to promote balanced daily routines.
+## Project Files
+
+- [View the full case study report](./Bellabeat%20Product%20Analysis%20Case%20Study%20-%20Naa%20Adjeley%20Mensah-Quaye.pdf)
+- [View the Python analysis notebook](./Bellabeat%20Fitness%20Tracker%20Analysis.ipynb)
