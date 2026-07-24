@@ -29,7 +29,7 @@ The findings are applied to the Bellabeat app to support marketing strategies th
 ## Project Files
 
 - [View the full case study report](./Bellabeat%20Product%20Analysis%20Case%20Study%20-%20Naa%20Adjeley%20Mensah-Quaye.pdf)
-- [View the Python analysis notebook](./Bellabeat%20Fitness%20Tracker%20Analysis.ipynb)
+- [View the Python analysis notebook](./Bellabeat_Fitness_Tracker_Analysis_GitHub%20%281%29.ipynb)
 ## Data Source
 
 This analysis uses the publicly available Fitbit Fitness Tracker Data dataset provided through Kaggle.
