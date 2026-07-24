@@ -13,3 +13,11 @@ The findings are applied to the Bellabeat app to support marketing strategies th
 - Google Colab
 - Microsoft Word
 - GitHub
+## Key Findings
+
+- Users recorded an average of 7,637.91 steps per day.
+- Average sedentary time was approximately 16.5 hours per day.
+- Users slept an average of 6.99 hours per night.
+- More than half of users were either sedentary or lightly active.
+- Daily steps had a moderate positive relationship with calories burned.
+- Sedentary time had a moderate negative relationship with sleep duration.
